@@ -1,15 +1,21 @@
 /*
     Programador: Luis Octavio Aguilar Serna
     Curso: JavaScript UDEMY
-    Version (commit): VERSION_00_ORIGINAL_FILE
+    Version (commit): VERSION_01_Introduccion_a_JavaScript
     Branch: Master
-
-    NOTA: Para este curso utilizare comentarios como este para explicar paso a paso (a forma de resumen a veces, otras con
-    lujo de detalle) lo aprendido en cada video del curso, dividiendo cada seccion de los videos con versiones (commits) de
-    GITHUB, para que asi quede documentado el curso en dicha plataforma. Asimismo, utilizare estos comentarios para crear el
-    archivo README de GITHUB. Tratare de desarrollar lo mas que pueda el codigo en inglés para practicar mi ingles tecnico.
-    Notese que el texto carece de acentos para evitar errores de sintaxis o visualizaciones de texto incorrectas. Al principio
-    del codigo de cada commit tendremos el nombre de la versión registrada. Todo se hara en la branch master ya que los 
-    registros son muy sencillos
+    
+    SECCION: 1 Introduccion a JavaScript
+    SUBSECCION: 1. Introduccion a JavaScript
 */
 
+
+/*
+    Introduccion
+    JavaScript es un lenguaje de interpretado, ¿que es un lenjuage de interpretado? Es un lenguaje cuyo codigo principal ejecuta
+    sus instrucciones directamente sin la necesidad de un compilador. JavaScript requiere de un navegador para ser ejecutado 
+    por ende, un navegador no es un interprete. Es uno de los lenguajes mas utilizados en los navegadores. JavaScript es muy
+    utilizado para el desarrollo web "FrontEnd", pero tambien es utilizado en la parte del "BackEnd" debido al avance tecnologico
+    web. Se puede trabajar JavaScript con la tecnologia "Node JS" en la parte del "BackEnd". JavaScript maneja frameworks como
+    Angular, React y Vue.js. JavaScrip trabaja bajo las especificaciones de ECMAscript, la cual se encarga de actualizar cada año
+    a tal lenguaje con el fin de mejorarlo, por esto, esta en constante evolucion.
+*/
