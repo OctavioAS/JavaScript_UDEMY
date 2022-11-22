@@ -1,39 +1,28 @@
 /*
     Programador: Luis Octavio Aguilar Serna
     Curso: JavaScript UDEMY
-    Version (commit): VERSION_07_Hola_Mundo_con_JavaScript
+    Version (commit): VERSION_8_Ejecutar_Quokka_en_un_Archivo_Existente
     
     Branch: Master
     
     SECCION: 1 Introduccion a JavaScript
-    SUBSECCION: 7 Hola Mundo con JavaScript
+    SUBSECCION: 8 Ejecutar Quokka en un Archivo Existente
 */ 
 
 
 /*
-    Primero, definimos una variable. Las variables nos permiten almacenar datos en nuestros programas y tenemos diferentes tipos
-    de datos que puede almacenar una variable.
+    Trabajaremos con el mismo codigo del commit anterior ya que solo veremos como se ejecuta Quokka:
 */
 
 var nameOne = "Hola Mundo";
+console.log (nameOne);
 
 /*
-    El tipo var puede definirse sintacticamente como un tipo de dato GENERAL, ya que permite alojar cualquier tipo de de dato
-    relacionado al valor asignado, por ejemplo, nuetra variable nameOne de tipo var tiene un valor asingando de tipo string, este
-    valor podria haber sido un int o cualquier otro. Mas adelante se vera que las variables defninidas pueden cambiar su valor
-    asignado de forma dinamica con relacion a su tipo.
+    Para ejecutar Quokka en este mismo archivo, seguimos la siguiente ruta:
+    ->"Ctrl+Shit+P";->"Quokka.js: Toogle (Start/Stop) on Current File";->"Sale la consola y se ejecuta el codigo"
 
-    A continuacion imprimimos nuestra variable:
+    Para detener Quokka seguimos la siguiente ruta:
+    ->"Ctrl+Shit+P";->"Quokka.js: Toogle (Start/Stop) on Current File";->"Se detiene la ejecucion"
 */
 
-console.log (nomeOne);
-
-/*
-    Para observar los resultados tenemos que generar una pagina HTML para observar los resultados en el navegador, pero por
-    cuestiones practicas podemos utilizar la extension Quokka que instalamos previamente, para elle seguimos la siguiente ruta:
-    ->"ctrl + shit + p";->"Quokka.js: New JavaScript File";->"De forma automatica se abre la consola y comenzamos a escribir en
-    el nuevo archivo que se abrio, se vera el programa ejecutandose en la consola".
-
-    En el proximos video veremos como ejecutar Quokka en un archivo existente para evitar creaciones innecesarias de archivos.
-*/
 
